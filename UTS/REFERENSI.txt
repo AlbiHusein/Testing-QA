@@ -1,0 +1,7 @@
+https://www.dicoding.com/blog/white-box-testing/
+
+https://jagongoding.com/python/latihan-logika/kalkulator-sederhana/ 
+
+https://aws.amazon.com/id/blogs/indonesia/membangun-ci-cd-pipeline-untuk-deploying-custom-machine-learning-models-menggunakan-layanan-aws/
+
+https://learn.microsoft.com/id-id/azure/developer/python/tutorial-deploy-python-web-app-azure-container-apps-03?tabs=azure-portal%2Cgit-github 
